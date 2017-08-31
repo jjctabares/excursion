@@ -13,7 +13,7 @@ html{
   text-align: center;
   font-size: 16px;
 }
-video{
+.media{
   display: block;
 	width: auto;
 	margin: 0 auto;
@@ -34,9 +34,4 @@ p{
 h3{
   color:gray;
   text-align:right;
-}
-img{
-  display: block;
-	width: auto;
-	margin: 0 auto;
 }
